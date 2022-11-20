@@ -19,6 +19,6 @@ fn user_log() {
 RUST_LOG=trace cargo run -- main src/main.rs
 ```
 效果演示
-![show](#)
+![show](https://github.com/chenfengyanyu/show_rust_cli/blob/main/src/image/1.png)
 
 
